@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Rajmudra Society,Dhankawadi,Pune Maharashtra India",
+  address: "Rajmudra Society,Dhankawadi,Pune,Maharashtra,India",
   phoneNo: "+91 8308998833",
   email: "sahilsapkal2401@gmail.com",
 };
