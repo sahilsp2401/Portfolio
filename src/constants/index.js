@@ -1,6 +1,6 @@
 // import project1 from "../assets/projects/project-1.jpg";
 // import project2 from "../assets/projects/project-2.jpg";
-// import project3 from "../assets/projects/project-3.jpg";
+import project3 from "../assests/Portfolio.png";
 // import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `Passionate about technology and problem-solving, with a strong foundation in software engineering.Academic experience includes developing a variety of projects using different technologies.Eager to apply academic learning and creative problem-solving skills to real-world challenges in software development.`;
@@ -55,7 +55,7 @@ export const PROJECTS = [
   },
   {
     title: "Portfolio Website",
-    // image: project3,
+    image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
